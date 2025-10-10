@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int n;
     scanf("%d", &n);
-    int count =0;
+    int count = 0;
     while (n)
     {
         count++;
-        n/=10;
-        
+        n /= 10;
     }
     printf("%d", count);
-    
+
     return 0;
 }
