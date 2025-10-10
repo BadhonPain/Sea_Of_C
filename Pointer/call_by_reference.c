@@ -2,7 +2,8 @@
 // it is mainly to show a pointer as a function parameter
 void increment_function(int *ptr)
 {
-    *ptr = (*ptr) + 1;
+    // *ptr = (*ptr) + 1;
+    *ptr += 1;
 }
 int main()
 {
