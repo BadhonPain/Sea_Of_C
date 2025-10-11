@@ -1,0 +1,4 @@
+A Command Line Argument (CLA) is a value or information 
+passed to a program when it is executed from the command line (terminal).
+These arguments allow users to give input to the program 
+at runtime, without using scanf() or any other input function.
