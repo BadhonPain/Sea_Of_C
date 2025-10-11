@@ -29,6 +29,6 @@ int main()
     person2.roll = 83;
     printf("%s %d %.1f\n", person1.name, person1.roll, person1.salary);
     printf("%s %d %.1f\n", person2.name, person2.roll, person2.salary);
-       printf("%s %d %.2f\n", p1.name, p1.tuition_no, p1.salary);
+    printf("%s %d %.2f\n", p1.name, p1.tuition_no, p1.salary);
     return 0;
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-enum Weekday
+typedef enum 
 {
     Saturday,  // 0
     Sunday,    // 1
@@ -9,11 +9,11 @@ enum Weekday
     Wednesday, // 4
     Thursday,  // 5
     Friday     // 6
-};
+} Weekday;
 
 int main()
 {
-    enum Weekday today;
+    Weekday today;
     today = Friday;
     printf("Day number: %d\n", today);
     return 0;

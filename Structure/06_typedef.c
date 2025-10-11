@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 /*
- Typedef mainly reduce the complexity of writing struct info 
+ Typedef mainly reduce the complexity of writing struct/union/enum info 
  again and again where it is used. We can create a new data type also
  as our choice and need using typedef.
 */
