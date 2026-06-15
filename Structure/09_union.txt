@@ -1,9 +1,0 @@
-In 'C' language, a union is a special data type that allows storing 
-different data types in the same memory location. Unlike a struct, 
-where each member has its own separate storage, in a union all members 
-share the same memory space, and the size of the union is equal to 
-the size of its largest member. This means only one member can hold 
-a value at a time. Unions are useful when you need to work with 
-different types of data but only one type is required at a given time, 
-helping to save memory. They are declared using the union keyword, 
-similar to structures.

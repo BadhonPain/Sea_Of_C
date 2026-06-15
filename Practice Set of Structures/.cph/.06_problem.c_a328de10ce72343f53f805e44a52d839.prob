@@ -1,1 +1,0 @@
-{"name":"Local: 06_problem","url":"e:\\Sea of C\\Practice Set of Structures\\06_problem.c","tests":[{"id":1755475732758,"input":"1 2  \n3 4\n5 6\n3 8\n9 2","output":"1+2i\n3+4i\n5+6i\n3+8i\n9+2i"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Sea of C\\Practice Set of Structures\\06_problem.c","group":"local","local":true}

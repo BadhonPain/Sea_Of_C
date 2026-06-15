@@ -1,9 +1,0 @@
-An enumeration, or enum, is a user-defined data type in C that is used 
-to assign names to a set of related constant integer values. In an enum, 
-the first constant has the default value 0, and the subsequent constants 
-increase by 1 automatically, although the programmer can explicitly 
-assign custom values if needed. Using enums makes the code more readable 
-and meaningful, since we can use descriptive names instead of numbers 
-(for example, using Friday instead of remembering the value 5). 
-Enums are commonly used to represent fixed sets of values such as days 
-of the week, months, colors, or status codes.

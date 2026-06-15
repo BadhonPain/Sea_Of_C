@@ -1,1 +1,0 @@
-{"name":"Local: call_by_reference","url":"e:\\freeCodeCamp.org\\Pointer\\call_by_reference.c","tests":[{"id":1754854826575,"input":"","output":"p = 101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\freeCodeCamp.org\\Pointer\\call_by_reference.c","group":"local","local":true}

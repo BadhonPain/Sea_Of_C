@@ -1,1 +1,0 @@
-{"name":"Local: 10_problem","url":"d:\\Code_with_Harry\\Practice Set -4\\10_problem.c","tests":[{"id":1754563249462,"input":"5","output":"Factorial of 5 is: 120"},{"id":1754563275757,"input":"7","output":"Factorial of 7 is: 5040"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code_with_Harry\\Practice Set -4\\10_problem.c","group":"local","local":true}

@@ -37,3 +37,7 @@ desktop.ini
 # Temp files
 *.tmp
 *.log
+
+# CPH & competitive programming helper files
+.cph/
+*.prob
