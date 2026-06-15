@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+a.out
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.bat
+
+# Code::Blocks project files
+*.workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temp files
+*.tmp
+*.log
